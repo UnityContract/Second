@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: bcc0918d75b629a429a6451ab9a52fe1
+timeCreated: 1577943807
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HJ_MKTC_005_00
+    100004: HJ_MKTC_005_006
+    100006: HJ_MKTC_005_007
+    100008: HJ_MKTC_005_008
+    100010: HJ_MKTC_005_009
+    100012: HJ_MKTC_005_01
+    100014: HJ_MKTC_005_010
+    100016: HJ_MKTC_005_011
+    100018: HJ_MKTC_005_012
+    100020: HJ_MKTC_005_013
+    100022: HJ_MKTC_005_014
+    100024: HJ_MKTC_005_015
+    100026: HJ_MKTC_005_016
+    100028: HJ_MKTC_005_017
+    100030: HJ_MKTC_005_02
+    100032: HJ_MKTC_005_03
+    100034: HJ_MKTC_005_04
+    100036: HJ_MKTC_005_05
+    100038: ZJ_JW_13_018
+    100040: ZJ_JW_15_00
+    100042: ZJ_JW_15_02
+    100044: ZJ_JW_15_03
+    100046: ZJ_JW_15_04
+    100048: ZJ_JW_15_06
+    100050: ZJ_JW_15_07
+    100052: ZJ_JW_15_09
+    100054: ZJ_JW_15_10
+    100056: ZJ_JW_15_11
+    100058: ZJ_JW_15_12
+    100060: ZJ_JW_15_13
+    100062: ZJ_JW_15_15
+    100064: ZJ_JW_15_16
+    100066: ZJ_JW_15_17
+    100068: ZJ_JW_15_18
+    100070: ZJ_JW_15_19
+    100072: ZJ_JW_15_20
+    100074: ZJ_JW_15_21
+    400000: //RootNode
+    400002: HJ_MKTC_005_00
+    400004: HJ_MKTC_005_006
+    400006: HJ_MKTC_005_007
+    400008: HJ_MKTC_005_008
+    400010: HJ_MKTC_005_009
+    400012: HJ_MKTC_005_01
+    400014: HJ_MKTC_005_010
+    400016: HJ_MKTC_005_011
+    400018: HJ_MKTC_005_012
+    400020: HJ_MKTC_005_013
+    400022: HJ_MKTC_005_014
+    400024: HJ_MKTC_005_015
+    400026: HJ_MKTC_005_016
+    400028: HJ_MKTC_005_017
+    400030: HJ_MKTC_005_02
+    400032: HJ_MKTC_005_03
+    400034: HJ_MKTC_005_04
+    400036: HJ_MKTC_005_05
+    400038: ZJ_JW_13_018
+    400040: ZJ_JW_15_00
+    400042: ZJ_JW_15_02
+    400044: ZJ_JW_15_03
+    400046: ZJ_JW_15_04
+    400048: ZJ_JW_15_06
+    400050: ZJ_JW_15_07
+    400052: ZJ_JW_15_09
+    400054: ZJ_JW_15_10
+    400056: ZJ_JW_15_11
+    400058: ZJ_JW_15_12
+    400060: ZJ_JW_15_13
+    400062: ZJ_JW_15_15
+    400064: ZJ_JW_15_16
+    400066: ZJ_JW_15_17
+    400068: ZJ_JW_15_18
+    400070: ZJ_JW_15_19
+    400072: ZJ_JW_15_20
+    400074: ZJ_JW_15_21
+    2100000: 'Material #25'
+    2100002: 'Material #27'
+    2100004: 'Material #26'
+    2100006: ZC_JW_02_2_1
+    2100008: 13 - Default
+    2100010: ZJ_JW_13_5
+    2100012: ZJ_JW_13
+    2100014: 22 - Default
+    2100016: ZJ_JW_13_2
+    2100018: 'Material #10'
+    2100020: ZJ_JW_15
+    2300000: HJ_MKTC_005_006
+    2300002: HJ_MKTC_005_007
+    2300004: HJ_MKTC_005_008
+    2300006: HJ_MKTC_005_009
+    2300008: HJ_MKTC_005_01
+    2300010: HJ_MKTC_005_010
+    2300012: HJ_MKTC_005_011
+    2300014: HJ_MKTC_005_012
+    2300016: HJ_MKTC_005_013
+    2300018: HJ_MKTC_005_014
+    2300020: HJ_MKTC_005_015
+    2300022: HJ_MKTC_005_016
+    2300024: HJ_MKTC_005_017
+    2300026: HJ_MKTC_005_02
+    2300028: HJ_MKTC_005_03
+    2300030: HJ_MKTC_005_04
+    2300032: HJ_MKTC_005_05
+    2300034: ZJ_JW_13_018
+    2300036: ZJ_JW_15_00
+    2300038: ZJ_JW_15_02
+    2300040: ZJ_JW_15_03
+    2300042: ZJ_JW_15_04
+    2300044: ZJ_JW_15_06
+    2300046: ZJ_JW_15_07
+    2300048: ZJ_JW_15_09
+    2300050: ZJ_JW_15_10
+    2300052: ZJ_JW_15_11
+    2300054: ZJ_JW_15_12
+    2300056: ZJ_JW_15_13
+    2300058: ZJ_JW_15_15
+    2300060: ZJ_JW_15_16
+    2300062: ZJ_JW_15_17
+    2300064: ZJ_JW_15_18
+    2300066: ZJ_JW_15_19
+    2300068: ZJ_JW_15_20
+    2300070: ZJ_JW_15_21
+    3300000: HJ_MKTC_005_006
+    3300002: HJ_MKTC_005_007
+    3300004: HJ_MKTC_005_008
+    3300006: HJ_MKTC_005_009
+    3300008: HJ_MKTC_005_01
+    3300010: HJ_MKTC_005_010
+    3300012: HJ_MKTC_005_011
+    3300014: HJ_MKTC_005_012
+    3300016: HJ_MKTC_005_013
+    3300018: HJ_MKTC_005_014
+    3300020: HJ_MKTC_005_015
+    3300022: HJ_MKTC_005_016
+    3300024: HJ_MKTC_005_017
+    3300026: HJ_MKTC_005_02
+    3300028: HJ_MKTC_005_03
+    3300030: HJ_MKTC_005_04
+    3300032: HJ_MKTC_005_05
+    3300034: ZJ_JW_13_018
+    3300036: ZJ_JW_15_00
+    3300038: ZJ_JW_15_02
+    3300040: ZJ_JW_15_03
+    3300042: ZJ_JW_15_04
+    3300044: ZJ_JW_15_06
+    3300046: ZJ_JW_15_07
+    3300048: ZJ_JW_15_09
+    3300050: ZJ_JW_15_10
+    3300052: ZJ_JW_15_11
+    3300054: ZJ_JW_15_12
+    3300056: ZJ_JW_15_13
+    3300058: ZJ_JW_15_15
+    3300060: ZJ_JW_15_16
+    3300062: ZJ_JW_15_17
+    3300064: ZJ_JW_15_18
+    3300066: ZJ_JW_15_19
+    3300068: ZJ_JW_15_20
+    3300070: ZJ_JW_15_21
+    4300000: HJ_MKTC_005_01
+    4300002: HJ_MKTC_005_02
+    4300004: HJ_MKTC_005_03
+    4300006: HJ_MKTC_005_04
+    4300008: HJ_MKTC_005_05
+    4300010: ZJ_JW_13_018
+    4300012: ZJ_JW_15_21
+    4300014: ZJ_JW_15_20
+    4300016: ZJ_JW_15_19
+    4300018: ZJ_JW_15_18
+    4300020: ZJ_JW_15_17
+    4300022: ZJ_JW_15_16
+    4300024: ZJ_JW_15_15
+    4300026: ZJ_JW_15_13
+    4300028: ZJ_JW_15_12
+    4300030: ZJ_JW_15_11
+    4300032: ZJ_JW_15_10
+    4300034: ZJ_JW_15_09
+    4300036: ZJ_JW_15_07
+    4300038: ZJ_JW_15_06
+    4300040: ZJ_JW_15_04
+    4300042: ZJ_JW_15_03
+    4300044: ZJ_JW_15_02
+    4300046: ZJ_JW_15_00
+    4300048: HJ_MKTC_005_006
+    4300050: HJ_MKTC_005_007
+    4300052: HJ_MKTC_005_008
+    4300054: HJ_MKTC_005_009
+    4300056: HJ_MKTC_005_010
+    4300058: HJ_MKTC_005_011
+    4300060: HJ_MKTC_005_012
+    4300062: HJ_MKTC_005_013
+    4300064: HJ_MKTC_005_014
+    4300066: HJ_MKTC_005_015
+    4300068: HJ_MKTC_005_016
+    4300070: HJ_MKTC_005_017
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
